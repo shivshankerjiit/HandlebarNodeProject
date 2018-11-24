@@ -1,0 +1,13 @@
+{
+  "files.autoSave": "off",
+  "workbench.statusBar.visible": true,
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.tabSize": 2,
+  "workbench.iconTheme": "vs-seti",
+  "workbench.editor.enablePreview": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true   
+  },
+  "editor.fontSize": 14
+}
